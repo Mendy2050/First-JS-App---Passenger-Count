@@ -28,6 +28,5 @@ function save() {
 
     // console.log(count)
     countEl.textContent = 0
-    coun
     count = 0
 }
